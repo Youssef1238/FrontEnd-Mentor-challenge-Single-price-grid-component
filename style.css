@@ -74,3 +74,12 @@ ul{
     padding: 0;
 }
 li{color: hsl(204, 43%, 93%,70%);margin-bottom: 5px;}
+@media (max-width: 750px){
+    .container,.price,.why{
+        height: auto;
+        width: 100vw;
+    }
+    .container{
+        margin-left: 10px;
+    }
+}
