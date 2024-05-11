@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Visit it](https://github.com/Youssef1238/FrontEnd-Mentor-challenge-Single-price-grid-component)
-- Live Site URL: [Visit it](https://your-live-site-url.com)
+- Live Site URL: [Visit it](https://youssef1238.github.io/FrontEnd-Mentor-challenge-Single-price-grid-component/)
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
